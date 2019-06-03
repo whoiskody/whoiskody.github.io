@@ -1,3 +1,62 @@
-body{
-    background-color: aqua;
+header {
+    text-align: left;
+    padding: 40px 0px 0px 100px;
+    
 }
+
+body{
+    background-color: rgb(252, 245, 235);
+}
+h1 {
+    Color: black;
+    position: relative;
+    top: 130px;
+    left: 500px;
+
+}
+p1 {
+    Color: black;
+    position: relative;
+    top: 150px;
+    left: 700px;
+    font-size: 30px;
+
+}
+p2 {
+    Color: black;
+    position: relative;
+    top: 250px;
+    left: 400px;
+    font-size: 25px;
+    
+
+}
+p {
+    Color: black;
+    position: relative;
+    top: 340px;
+    left: 600px;
+    font-size: 25px;
+
+}
+/* nav {
+    background-color: black;
+    position: relative;
+    bottom:50px;
+    left: 231px;
+    width: 800px;
+    height: 50px;
+} */
+ul {
+    
+
+}
+li {
+    display: inline;
+    width: 60px;
+    list-style: none;
+    text-decoration-line: none;
+  }
+  h3 {
+      font-size: 20px;
+  }
